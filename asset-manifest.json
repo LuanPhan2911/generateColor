@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/generate-color/static/css/main.ce0076b2.css",
+    "main.js": "/generate-color/static/js/main.b906a904.js",
+    "static/js/787.c36422f8.chunk.js": "/generate-color/static/js/787.c36422f8.chunk.js",
+    "index.html": "/generate-color/index.html",
+    "main.ce0076b2.css.map": "/generate-color/static/css/main.ce0076b2.css.map",
+    "main.b906a904.js.map": "/generate-color/static/js/main.b906a904.js.map",
+    "787.c36422f8.chunk.js.map": "/generate-color/static/js/787.c36422f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce0076b2.css",
+    "static/js/main.b906a904.js"
+  ]
+}
