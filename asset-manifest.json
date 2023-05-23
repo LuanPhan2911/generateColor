@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/generate-color/static/css/main.ce0076b2.css",
-    "main.js": "/generate-color/static/js/main.b906a904.js",
-    "static/js/787.c36422f8.chunk.js": "/generate-color/static/js/787.c36422f8.chunk.js",
-    "index.html": "/generate-color/index.html",
-    "main.ce0076b2.css.map": "/generate-color/static/css/main.ce0076b2.css.map",
-    "main.b906a904.js.map": "/generate-color/static/js/main.b906a904.js.map",
-    "787.c36422f8.chunk.js.map": "/generate-color/static/js/787.c36422f8.chunk.js.map"
+    "main.css": "/generateColor/static/css/main.ce0076b2.css",
+    "main.js": "/generateColor/static/js/main.58dd61f6.js",
+    "static/js/787.c36422f8.chunk.js": "/generateColor/static/js/787.c36422f8.chunk.js",
+    "index.html": "/generateColor/index.html",
+    "main.ce0076b2.css.map": "/generateColor/static/css/main.ce0076b2.css.map",
+    "main.58dd61f6.js.map": "/generateColor/static/js/main.58dd61f6.js.map",
+    "787.c36422f8.chunk.js.map": "/generateColor/static/js/787.c36422f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce0076b2.css",
-    "static/js/main.b906a904.js"
+    "static/js/main.58dd61f6.js"
   ]
 }
