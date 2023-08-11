@@ -1,4 +1,7 @@
-.container{
+.App {
+  overflow: hidden;
+}
+.container {
   /* background-color: red; */
   width: 70vw;
   height: 100vh;
